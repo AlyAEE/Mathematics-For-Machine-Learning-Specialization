@@ -1,4 +1,4 @@
-# Mathematics-For-Machine-Learning-Specialization
+# Mathematics-For-Machine-Learning-and-Data-Science-Specialization
 
 **This is Mathematics for Machine Learning and Data Science Specialization offered by DeepLearning.ai Notes**
 
